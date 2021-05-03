@@ -12,6 +12,6 @@ Node.js 및 Socket.io 라이브러리를 활용하여 간단한 안드로이드 
 
 >## 라이브러리
 ><ul>
->  <li>socket</li>
+>  <li>socket.io</li>
 >  <li>gson</li>
 ></ul>
