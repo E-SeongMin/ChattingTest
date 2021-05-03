@@ -1,4 +1,4 @@
-# Chatting App
+# Chatting Test
 Node.js 및 Socket.io 라이브러리를 활용하여 간단한 안드로이드 채팅 어플 구현
 
 >## 개발환경
