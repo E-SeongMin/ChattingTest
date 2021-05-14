@@ -19,8 +19,8 @@ Node.js 및 Socket.io 라이브러리를 활용하여 간단한 안드로이드 
 ## 실행화면
 
 ##### 안드로이드
-![image](https://user-images.githubusercontent.com/42796952/118264101-2887b600-b4f2-11eb-8b00-9b5256507749.png){: width="100" height="100"}
-![image](https://user-images.githubusercontent.com/42796952/118264118-2de50080-b4f2-11eb-885e-7567584b4918.png){: width="100" height="100"}
-![image](https://user-images.githubusercontent.com/42796952/118264166-405f3a00-b4f2-11eb-9927-ce6e77d77826.png){: width="100" height="100"}
+![image](https://user-images.githubusercontent.com/42796952/118264634-ec088a00-b4f2-11eb-8fbe-4ba40171d05a.png)
+![image](https://user-images.githubusercontent.com/42796952/118264707-0d697600-b4f3-11eb-86bc-b510caae4d5b.png)
+
 ##### 서버
-![image](https://user-images.githubusercontent.com/42796952/118264223-5967eb00-b4f2-11eb-8566-1edbef50481e.png){: width="100" height="100"}
+![image](https://user-images.githubusercontent.com/42796952/118264223-5967eb00-b4f2-11eb-8566-1edbef50481e.png)
