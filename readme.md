@@ -20,6 +20,8 @@ Node.js 및 Socket.io 라이브러리를 활용하여 간단한 안드로이드 
 
 ##### 안드로이드
 ![image](https://user-images.githubusercontent.com/42796952/118264634-ec088a00-b4f2-11eb-8fbe-4ba40171d05a.png)
+
+
 ![image](https://user-images.githubusercontent.com/42796952/118264707-0d697600-b4f3-11eb-86bc-b510caae4d5b.png)
 
 ##### 서버
